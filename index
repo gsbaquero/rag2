@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Federation Waystations – Intergalactic Coffee Federation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: #0f1216;
+      color: #e6e6e6;
+      line-height: 1.6;
+      margin: 0;
+      padding: 2rem;
+    }
+    header, section {
+      max-width: 900px;
+      margin: 0 auto 3rem auto;
+    }
+    h1, h2, h3 {
+      color: #f5c77a;
+      font-weight: 600;
+    }
+    h1 {
+      font-size: 2.4rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      margin-bottom: 1rem;
+    }
+    ul {
+      margin-left: 1.2rem;
+    }
+    li {
+      margin-bottom: 0.6rem;
+    }
+    .note {
+      background-color: #1b2027;
+      padding: 1rem;
+      border-left: 4px solid #f5c77a;
+      margin: 1.5rem 0;
+    }
+    footer {
+      max-width: 900px;
+      margin: 4rem auto 0 auto;
+      font-size: 0.9rem;
+      color: #aaa;
+      border-top: 1px solid #333;
+      padding-top: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Federation Waystations</h1>
+  <p>
+    An informational guide provided by the Intergalactic Coffee Federation
+    for travelers, traders, and temporary residents.
+  </p>
+</header>
+
+<section>
+  <h2>What Is a Federation Waystation?</h2>
+  <p>
+    Federation Waystations are neutral locations maintained by the
+    Intergalactic Coffee Federation across major transit routes.
+    They are not embassies, markets, or cafés, though they may resemble all three.
+  </p>
+  <p>
+    Their primary purpose is stabilization: of travelers, negotiations,
+    and interspecies interactions that may be disrupted by fatigue,
+    temporal displacement, or sensory overload.
+  </p>
+</section>
+
+<section>
+  <h2>Core Services Offered</h2>
+  <ul>
+    <li>
+      <strong>Palate Recalibration:</strong> Mild, non-reactive coffees designed
+      to reset taste perception after long-distance travel.
+    </li>
+    <li>
+      <strong>Context Briefings:</strong> Short, spoken explanations of local
+      brewing customs, biological risks, and etiquette.
+    </li>
+    <li>
+      <strong>Neutral Brewing Chambers:</strong> Atmosphere-adjustable spaces
+      where multiple species can safely share a preparation ritual.
+    </li>
+    <li>
+      <strong>Archive Access Nodes:</strong> Limited, read-only access to
+      the Archive of Grounds for travelers with verified intent.
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Coffee Etiquette for Travelers</h2>
+  <p>
+    Coffee within a Waystation is never casual. Travelers are expected to
+    observe the following guidelines:
+  </p>
+  <ul>
+    <li>Do not consume a brew before its purpose is stated.</li>
+    <li>Never alter a shared brew without consent.</li>
+    <li>Silence during cooling phases is customary, not mandatory.</li>
+    <li>
+      Refusing a cup is acceptable. Disrespecting its preparation is not.
+    </li>
+  </ul>
+
+  <div class="note">
+    <strong>Note:</strong> Some Waystations enforce a No-Enhancement Policy.
+    Personal stimulants or additives may be confiscated temporarily.
+  </div>
+</section>
+
+<section>
+  <h2>Common Mistakes First-Time Visitors Make</h2>
+  <ul>
+    <li>Assuming all coffee is safe for all species.</li>
+    <li>Requesting specific flavors instead of stating intent.</li>
+    <li>Attempting to negotiate before the first sip.</li>
+    <li>
+      Treating Arbitration Baristas as servers rather than neutral agents.
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Frequently Encountered Coffees</h2>
+  <ul>
+    <li>
+      <strong>Transit Neutral:</strong> Extremely mild, used for acclimation.
+    </li>
+    <li>
+      <strong>Stillwake Coffee:</strong> Served to individuals preparing for
+      extended focus or testimony.
+    </li>
+    <li>
+      <strong>Mineral Dawn Infusion:</strong> Available only on request and
+      only with confirmed biological compatibility.
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Federation Symbols You May See</h2>
+  <ul>
+    <li>
+      <strong>The Spiral Cup:</strong> Indicates a shared brewing space.
+    </li>
+    <li>
+      <strong>Open Kettle Mark:</strong> Signals non-transactional preparation.
+    </li>
+    <li>
+      <strong>Three-Line Glyph:</strong> Arbitration in progress. Interruptions
+      discouraged.
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>When Not to Drink</h2>
+  <p>
+    Travelers are advised not to consume coffee if they are experiencing:
+  </p>
+  <ul>
+    <li>Temporal desynchronization</li>
+    <li>Unstable metabolic cycles</li>
+    <li>Recent neural augmentation</li>
+    <li>Untranslated sensory input</li>
+  </ul>
+</section>
+
+<footer>
+  <p>
+    Federation Waystations operate under the Principle of Contextual Brewing.
+    Availability of services may vary based on local physics, culture,
+    and stellar conditions.
+  </p>
+  <p>
+    This guide is informational and does not replace direct instruction
+    from Federation personnel.
+  </p>
+</footer>
+
+</body>
+</html>
